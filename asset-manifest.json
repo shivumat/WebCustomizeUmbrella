@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WebCustomizeUmbrella/static/css/main.b4d78401.chunk.css",
-    "main.js": "/WebCustomizeUmbrella/static/js/main.73b89dae.chunk.js",
-    "main.js.map": "/WebCustomizeUmbrella/static/js/main.73b89dae.chunk.js.map",
+    "main.js": "/WebCustomizeUmbrella/static/js/main.412cf7ec.chunk.js",
+    "main.js.map": "/WebCustomizeUmbrella/static/js/main.412cf7ec.chunk.js.map",
     "runtime-main.js": "/WebCustomizeUmbrella/static/js/runtime-main.0300bf5d.js",
     "runtime-main.js.map": "/WebCustomizeUmbrella/static/js/runtime-main.0300bf5d.js.map",
     "static/js/2.0c1b6d7f.chunk.js": "/WebCustomizeUmbrella/static/js/2.0c1b6d7f.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.0300bf5d.js",
     "static/js/2.0c1b6d7f.chunk.js",
     "static/css/main.b4d78401.chunk.css",
-    "static/js/main.73b89dae.chunk.js"
+    "static/js/main.412cf7ec.chunk.js"
   ]
 }
